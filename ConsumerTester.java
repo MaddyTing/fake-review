@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 /**
- * Write a description of class ConsumerTester here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Maddy Ting
+ * Takes file name input from user and outputs both a fake randomized review and a purposefully positive or negative review
  */
 public class ConsumerTester
 {
